@@ -1,0 +1,66 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    background-color: #e9ecef;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 30px;
+    font-family: 'Anton', sans-serif;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.centerBlock {
+    display: table;
+    margin: auto;
+  }
+
+#start-button {
+    width: 250px;
+    height: 100px;
+    margin-top: 50px;
+    font-size: 22pt;
+}
+
+#main-game {
+    font-size: 22pt;
+}
+
+#timer-display {
+    margin-bottom: 20px;
+    color: red;
+}
+
+.container {
+    height: 400px;
+    background-color: white;
+    background-image: url("../images/507890_bob-dylan-hd-wallpapers_1920x1080_h.jpg");
+}
+
+#question-display {
+    margin: 30px;
+    font-weight: bold;
+    font-size: 26pt;
+}
+
+.col-md-10 {
+    height: 100%;
+}
+
+p {
+    margin-top:20px;
+}
+
+.answer {
+    margin: 5px;
+    cursor: pointer;
+
+}
+
+.answer:hover {
+    background-color: rgb(202, 187, 187);
+}
