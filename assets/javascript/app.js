@@ -1,7 +1,7 @@
 var questions = [
     "Where was Bob Dylan born?",
     "What is Bob Dylan's real name?",
-    "Which of these albums came first?",
+    "Which album had the earliest release date?",
     "Which of these songs is NOT a Bob Dylan song?",
     "The song 'Blowin' In The Wind' is on which album?"
 ];
